@@ -7,7 +7,7 @@
 
 ### Hypothesis testing in linear regression 
 1. To determine the significance of beta coefficients
-2. H0: B1 = 0 ; H1: B2 != 0
+2. H0: B1 = 0 ; H1: B1 != 0
 3. T-test on the beta coefficient
 4. t score = Bi / SE(Bi)
 
